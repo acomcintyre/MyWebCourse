@@ -1,0 +1,87 @@
+/* @import url('halloween.css'); */
+
+/* @media screen { */
+
+
+    body {
+        color: red;
+        font-size: 100%;
+        padding:3px;
+    }
+
+    h1 { 
+        font-family: Courier,  'Courier New', monospace; 
+        font-size:2em; 
+        padding:3px;
+    }
+
+    h2 {color: green; 
+        font-style:italic; 
+        font-size:1.5em; 
+        padding:3px;
+    }
+
+    header {text-align: center
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d2ff52+0,91e842+100;Neon */
+background: rgb(210,255,82); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(210,255,82,1) 0%, rgba(145,232,66,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(210,255,82,1) 0%,rgba(145,232,66,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(210,255,82,1) 0%,rgba(145,232,66,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ff52', endColorstr='#91e842',GradientType=0 ); /* IE6-9 */
+
+
+
+    }
+
+   
+
+    nav ul li {list-style-type: none; 
+        display: inline-block;}
+    nav ul li a {text-decoration:none;
+        width: 9em; 
+        height: 2em;
+        padding: 15px;}
+
+    header h2, #hipster h2 span {color: black}
+
+    nav {text-transform: uppercase }
+
+    nav a:link {color: white; background-color:red}
+    nav a:hover {color:red;background-color:white}
+
+
+    p {color: blue; font-size: 18px;
+    background-color: aqua;
+    padding:3px;
+    }
+    
+
+    p.two {
+        color: black;
+        font:bold 15px Arial, sans-serif;
+    }
+
+    footer { font-weight:bold;
+        padding:3px;
+    }
+    
+    li { font-variant: small-caps;
+        padding:3px;
+    }
+
+    /li {
+        font-variant: small-caps;
+        color:red;
+    }
+    h1 {
+        color: blue;
+        text-align: center;
+    } 
+    
+    article { border-bottom: 1px solid black; padding:5px; }
+   
+   
+
+/* } */
+
+
